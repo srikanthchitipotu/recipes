@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tasty Tacos"
+title:  "Tasty tacos based on University of Washington Tacos"
 date:   2015-03-24 10:00
 categories: main
 ---
